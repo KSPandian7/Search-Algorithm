@@ -105,7 +105,7 @@ else:
 
 ```
 ## Sample Input and Output
-INPIUT:
+INPUT:
 ![input](/ip.png)
 
 OUTPUT :
